@@ -1,0 +1,11 @@
+/**** Styles du Footer ******/
+@use "../abstracts/mixins" as *;
+@use "../abstracts/variables" as *; //chargment du fichier
+
+
+
+.Drc-footer {
+  background-color: $Color-portraits-2-hex;
+  width: 100%;
+  height: 18rem;
+}

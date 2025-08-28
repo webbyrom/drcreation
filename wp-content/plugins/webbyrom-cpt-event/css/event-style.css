@@ -1,0 +1,32 @@
+/****
+Css pour single et archive event
+*******/
+.evenement-template-default,.single-evenement body {
+    overflow-x: hidden;
+    /*background-color:red;*/
+}
+.single-evenement .Webbyrom-event{
+    padding: 0
+    ;
+}
+.single-evenement .Webbyrom-event .event-img-sgle{
+   box-shadow: 10px 5px 20px black;
+   margin-bottom: 4rem;
+}
+.single-evenement .Pdj-img-event-sgle {
+    width: 30%;
+    background-color: darkcyan;
+    position: relative;
+   /* float: left;*/
+    
+}
+.single-evenement .Pdj-event-textesgl {
+    clear: both; /* pour positioner correctementle paragraphe*/
+}
+.single-evenement .Pdj-event-textesgl .event-hour-first, .event-hour-end{
+    background-color: cadetblue;
+    position: relative;
+    color: black;
+    margin-right: 2rem;
+    padding: 1rem;
+}

@@ -8,4 +8,12 @@
   background-color: $Color-portraits-2-hex;
   width: 100%;
   height: 18rem;
+  font-size: larger;
+  color: $Color-portraits-5-hsla;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem 0;
+  box-sizing: border-box;
 }

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Image Slider, Video Slider - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-22 22:49:39+0000\n"
+"PO-Revision-Date: 2025-08-16 02:30:02+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -241,6 +241,31 @@ msgstr "Zentriert"
 msgid "Right"
 msgstr "Rechts"
 
+#: themes/architekt/customize.php:407 themes/bitono/customize.php:347
+#: themes/bitono/customize.php:481 themes/bitono/customize.php:542
+#: themes/blend/customize.php:350 themes/blend/customize.php:510
+#: themes/blend/customize.php:571 themes/bubble/customize.php:363
+#: themes/bubble/customize.php:497 themes/bubble/customize.php:558
+#: themes/clarity/customize.php:346 themes/clarity/customize.php:496
+#: themes/cubic/customize.php:347 themes/cubic/customize.php:481
+#: themes/cubic/customize.php:542 themes/databold/customize.php:346
+#: themes/databold/customize.php:480 themes/databold/customize.php:541
+#: themes/default-base/customize.php:375 themes/default-base/customize.php:522
+#: themes/default-base/customize.php:583 themes/disjoint/customize.php:334
+#: themes/disjoint/customize.php:468 themes/disjoint/customize.php:529
+#: themes/draxler/customize.php:327 themes/draxler/customize.php:468
+#: themes/draxler/customize.php:529 themes/highway/customize.php:468
+#: themes/highway/customize.php:529 themes/jenga/customize.php:340
+#: themes/jenga/customize.php:401 themes/nexus/customize.php:337
+#: themes/nexus/customize.php:471 themes/nexus/customize.php:532
+#: themes/outline/customize.php:345 themes/outline/customize.php:479
+#: themes/outline/customize.php:540 themes/precognition/customize.php:412
+#: themes/precognition/customize.php:473 themes/radix/customize.php:376
+#: themes/radix/customize.php:437 themes/simply-dark/customize.php:347
+#: themes/simply-dark/customize.php:486 themes/simply-dark/customize.php:547
+msgid "Left"
+msgstr "Links"
+
 #: themes/architekt/customize.php:401 themes/bitono/customize.php:536
 #: themes/blend/customize.php:565 themes/bubble/customize.php:552
 #: themes/clarity/customize.php:490 themes/cubic/customize.php:536
@@ -288,31 +313,6 @@ msgstr "Schriftgröße"
 #: themes/simply-dark/customize.php:410
 msgid "Colors"
 msgstr "Farben"
-
-#: themes/architekt/customize.php:407 themes/bitono/customize.php:347
-#: themes/bitono/customize.php:481 themes/bitono/customize.php:542
-#: themes/blend/customize.php:350 themes/blend/customize.php:510
-#: themes/blend/customize.php:571 themes/bubble/customize.php:363
-#: themes/bubble/customize.php:497 themes/bubble/customize.php:558
-#: themes/clarity/customize.php:346 themes/clarity/customize.php:496
-#: themes/cubic/customize.php:347 themes/cubic/customize.php:481
-#: themes/cubic/customize.php:542 themes/databold/customize.php:346
-#: themes/databold/customize.php:480 themes/databold/customize.php:541
-#: themes/default-base/customize.php:375 themes/default-base/customize.php:522
-#: themes/default-base/customize.php:583 themes/disjoint/customize.php:334
-#: themes/disjoint/customize.php:468 themes/disjoint/customize.php:529
-#: themes/draxler/customize.php:327 themes/draxler/customize.php:468
-#: themes/draxler/customize.php:529 themes/highway/customize.php:468
-#: themes/highway/customize.php:529 themes/jenga/customize.php:340
-#: themes/jenga/customize.php:401 themes/nexus/customize.php:337
-#: themes/nexus/customize.php:471 themes/nexus/customize.php:532
-#: themes/outline/customize.php:345 themes/outline/customize.php:479
-#: themes/outline/customize.php:540 themes/precognition/customize.php:412
-#: themes/precognition/customize.php:473 themes/radix/customize.php:376
-#: themes/radix/customize.php:437 themes/simply-dark/customize.php:347
-#: themes/simply-dark/customize.php:486 themes/simply-dark/customize.php:547
-msgid "Left"
-msgstr "Links"
 
 #: themes/architekt/customize.php:36 themes/bitono/customize.php:36
 #: themes/blend/customize.php:36 themes/bubble/customize.php:36
@@ -385,6 +385,18 @@ msgstr "Rand"
 msgid "Links"
 msgstr "Links"
 
+#: themes/architekt/customize.php:353 themes/bitono/customize.php:421
+#: themes/blend/customize.php:450 themes/bubble/customize.php:437
+#: themes/clarity/customize.php:420 themes/cubic/customize.php:421
+#: themes/databold/customize.php:420 themes/default-base/customize.php:449
+#: themes/disjoint/customize.php:408 themes/draxler/customize.php:408
+#: themes/highway/customize.php:409 themes/jenga/customize.php:280
+#: themes/nexus/customize.php:411 themes/outline/customize.php:419
+#: themes/precognition/customize.php:352 themes/radix/customize.php:317
+#: themes/simply-dark/customize.php:421
+msgid "Text"
+msgstr "Text"
+
 #: themes/architekt/customize.php:16 themes/architekt/customize.php:223
 #: themes/architekt/customize.php:346 themes/bitono/customize.php:16
 #: themes/bitono/customize.php:222 themes/bitono/customize.php:414
@@ -414,18 +426,6 @@ msgstr "Links"
 #: themes/simply-dark/customize.php:414
 msgid "Background"
 msgstr "Hintergrund"
-
-#: themes/architekt/customize.php:353 themes/bitono/customize.php:421
-#: themes/blend/customize.php:450 themes/bubble/customize.php:437
-#: themes/clarity/customize.php:420 themes/cubic/customize.php:421
-#: themes/databold/customize.php:420 themes/default-base/customize.php:449
-#: themes/disjoint/customize.php:408 themes/draxler/customize.php:408
-#: themes/highway/customize.php:409 themes/jenga/customize.php:280
-#: themes/nexus/customize.php:411 themes/outline/customize.php:419
-#: themes/precognition/customize.php:352 themes/radix/customize.php:317
-#: themes/simply-dark/customize.php:421
-msgid "Text"
-msgstr "Text"
 
 #: themes/architekt/customize.php:241 themes/architekt/customize.php:268
 #: themes/architekt/customize.php:295 themes/bitono/customize.php:240
@@ -785,10 +785,6 @@ msgstr "Eine Rezension schreiben"
 msgid "Thumbnail navigation"
 msgstr "Vorschaubild-Navigation"
 
-#: admin/Table.php:156 admin/Table.php:315 inc/slide/metaslide.class.php:419
-msgid "Delete Permanently"
-msgstr "Unwiderruflich löschen"
-
 #: ml-slider.php:2482
 msgid "Premium Support"
 msgstr "Premium-Support"
@@ -800,6 +796,10 @@ msgstr "Premium-Support"
 #: admin/Table.php:160 admin/Table.php:329
 msgid "Trash"
 msgstr "Papierkorb"
+
+#: admin/Table.php:156 admin/Table.php:315 inc/slide/metaslide.class.php:419
+msgid "Delete Permanently"
+msgstr "Endgültig löschen"
 
 #: admin/views/notices/header-notice.php:8
 msgid "Logo"

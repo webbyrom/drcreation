@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Image Slider, Video Slider - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-12 21:26:45+0000\n"
+"PO-Revision-Date: 2025-09-05 21:04:13+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,120 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: es\n"
 "Project-Id-Version: Plugins - Slider, Gallery, and Carousel by MetaSlider &#8211; Image Slider, Video Slider - Stable (latest release)\n"
+
+#: themes/manifest-premium.php:79 themes/manifest-premium.php:87
+msgid "Image, External Image and Post Feed slides are displayed in 2 columns, while the others slide types are displayed in 1 column."
+msgstr "Las diapositivas de imagen, imagen externa y feed de entradas se muestran en 2 columnas, mientras que el resto de tipos de diapositivas se muestran en en 1 columna."
+
+#: themes/manifest-premium.php:71
+msgid "Image, External Image and Post Feed slides are displayed in 2 rows, while the others slide types are displayed in 1 row. It should also be used with 100% Width and Carousel Mode disabled, Transition Effect set to Slide and Center Align enabled."
+msgstr "Las diapositivas de imagen, imagen externa y feed de entradas se muestran en 2 columnas, mientras que el resto de tipos de diapositivas se muestran en en 1 columna. También debe usarse con el modo «Ancho 100%» y «Carrusel» desactivado, el efecto de transición establecido en «Deslizar» y la alineación central habilitada."
+
+#: themes/manifest-premium.php:70
+msgid "A dynamic slideshow theme to display testimonials that emphasizes the active slide by using grayscale for the surrounding slides, creating a focal point that draws the viewer's attention."
+msgstr "Un tema de presentación de diapositivas dinámico que enfatiza la diapositiva activa mediante el uso de escala de grises para las diapositivas circundantes, creando un punto focal que atrae la atención del espectador."
+
+#: themes/manifest-premium.php:39 themes/manifest-premium.php:63
+msgid "It should be used with 100% Width and Carousel Mode disabled, Transition Effect set to Slide and Center Align enabled. Currently works on all slide types except External Image and Tiktok Videos."
+msgstr "También debe usarse con el modo «Ancho 100%» y «Carrusel» desactivado, el efecto de transición establecido en «Deslizar» y la alineación central habilitada. Actualmente funciona en todos los tipos de diapositivas excepto imagen externa y Tiktok videos."
+
+#: themes/default-base/customize.php:501
+msgid "Based on \"Vertical Position\"."
+msgstr "Basado en la «Posición vertical»."
+
+#: themes/customize.php:136
+msgid "Fallback background for slideshow."
+msgstr "Fondo alternativo por el pase de diapositivas."
+
+#: themes/bitono/customize.php:493 themes/blend/customize.php:522
+#: themes/bubble/customize.php:509 themes/cubic/customize.php:493
+#: themes/databold/customize.php:492 themes/default-base/customize.php:534
+#: themes/disjoint/customize.php:480 themes/draxler/customize.php:480
+#: themes/highway/customize.php:480 themes/jenga/customize.php:352
+#: themes/nexus/customize.php:483 themes/outline/customize.php:491
+#: themes/precognition/customize.php:424 themes/radix/customize.php:388
+#: themes/simply-dark/customize.php:498
+msgid "Based on \"Horizontal Position\"."
+msgstr "Basado en la «Posición horizontal»."
+
+#: themes/bitono/customize.php:492 themes/blend/customize.php:521
+#: themes/bubble/customize.php:508 themes/cubic/customize.php:492
+#: themes/databold/customize.php:491 themes/default-base/customize.php:533
+#: themes/disjoint/customize.php:479 themes/draxler/customize.php:479
+#: themes/highway/customize.php:479 themes/jenga/customize.php:351
+#: themes/nexus/customize.php:482 themes/outline/customize.php:490
+#: themes/precognition/customize.php:423 themes/radix/customize.php:387
+#: themes/simply-dark/customize.php:497
+msgid "Horizontal Position Offset"
+msgstr "Desfase de la posición horizontal"
+
+#: themes/bitono/customize.php:471 themes/blend/customize.php:500
+#: themes/bubble/customize.php:487 themes/cubic/customize.php:471
+#: themes/databold/customize.php:470 themes/default-base/customize.php:512
+#: themes/disjoint/customize.php:458 themes/draxler/customize.php:458
+#: themes/highway/customize.php:458 themes/jenga/customize.php:330
+#: themes/nexus/customize.php:461 themes/outline/customize.php:469
+#: themes/precognition/customize.php:402 themes/radix/customize.php:366
+#: themes/simply-dark/customize.php:476
+msgid "Horizontal Position"
+msgstr "Posición horizontal"
+
+#: themes/bitono/customize.php:152 themes/bitono/customize.php:329
+#: themes/bitono/customize.php:459 themes/blend/customize.php:139
+#: themes/blend/customize.php:332 themes/blend/customize.php:488
+#: themes/bubble/customize.php:142 themes/bubble/customize.php:345
+#: themes/bubble/customize.php:475 themes/clarity/customize.php:151
+#: themes/clarity/customize.php:328 themes/cubic/customize.php:152
+#: themes/cubic/customize.php:329 themes/cubic/customize.php:459
+#: themes/databold/customize.php:152 themes/databold/customize.php:328
+#: themes/databold/customize.php:458 themes/default-base/customize.php:166
+#: themes/default-base/customize.php:357 themes/default-base/customize.php:500
+#: themes/disjoint/customize.php:140 themes/disjoint/customize.php:316
+#: themes/disjoint/customize.php:446 themes/draxler/customize.php:139
+#: themes/draxler/customize.php:309 themes/draxler/customize.php:446
+#: themes/highway/customize.php:151 themes/highway/customize.php:328
+#: themes/highway/customize.php:446 themes/jenga/customize.php:318
+#: themes/nexus/customize.php:142 themes/nexus/customize.php:319
+#: themes/nexus/customize.php:449 themes/outline/customize.php:151
+#: themes/outline/customize.php:327 themes/outline/customize.php:457
+#: themes/precognition/customize.php:152 themes/precognition/customize.php:390
+#: themes/radix/customize.php:150 themes/radix/customize.php:244
+#: themes/radix/customize.php:354 themes/simply-dark/customize.php:152
+#: themes/simply-dark/customize.php:329 themes/simply-dark/customize.php:464
+msgid "Vertical Position Offset"
+msgstr "Desfase de la posición vertical"
+
+#: inc/slide/metaslide.image.class.php:614
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/slide/metaslide.class.php:845
+msgid "Hide slide"
+msgstr "Ocultar diapositiva"
+
+#: admin/views/slides/tabs/advanced.php:9
+msgid "With MetaSlider Pro, you can add a custom delay and repeat options to your slides. You can choose to display your slides more time, and repeat your slides multiple times."
+msgstr "Con MetaSlider Pro, puedes añadir un retardo personalizado y opciones de repetición a tus diapositivas. Puedes elegir mostrar tus diapositivas más tiempo, y repetir las diapositivas varias veces."
+
+#: admin/views/slides/tabs/advanced.php:6
+msgid "Update or activate your MetaSlider Pro now to add a custom delay and repeat options to your slides"
+msgstr "Actualiza o activa tu MetaSlider Pro ahora para añadir un retardo personalizado y opciones de repetición a tus diapositivas"
+
+#: admin/views/pages/parts/slider-settings.php:964
+msgid "By default, MetaSlider will crop images using the main width and height of the slideshow. If you want smaller images, select Custom width/height and make sure the values are less than the main width and height."
+msgstr "Por defecto, MetaSlider recortará las imágenes utilizando el ancho y alto principales de la presentación de diapositivas. Si deseas imágenes más pequeñas, selecciona «Ancho/alto personalizados» y asegúrate de que los valores sean inferiores al ancho y alto principales."
+
+#: admin/views/pages/parts/slider-settings.php:960
+msgid "Custom width/height (Pro)"
+msgstr "Ancho/alto personalizados (Pro)"
+
+#: admin/views/pages/parts/slider-settings.php:957
+msgid "Slideshow width/height"
+msgstr "Ancho/alto del pase de diapositivas"
+
+#: admin/views/pages/parts/slider-settings.php:952
+msgid "Image Crop Source"
+msgstr "Fuente del recorte de la imagen"
 
 #: themes/radix/customize.php:36
 msgid "Text Color"
@@ -1361,6 +1475,10 @@ msgstr "Cuando está activado, este ajuste oculta la diapositiva en pantallas de
 #: admin/views/slides/tabs/mobile.php:46
 msgid "When enabled this setting will hide the slide on screen widths equal to or greater than %spx"
 msgstr "Cuando está activado, este ajuste oculta la diapositiva en pantallas de anchura igual o superior a %spx"
+
+#: admin/views/pages/parts/slider-settings.php:345
+msgid "Choose the speed of the animation in milliseconds. You can select the animation in the \"Transition Effect\" field."
+msgstr "Elige la velocidad de la animación en milisegundos. Puedes seleccionar la animación en el campo «Efecto de transición»."
 
 #: admin/views/pages/parts/slider-settings.php:1036
 msgid "Allow touch swipe navigation of the slider on touch-enabled devices."
